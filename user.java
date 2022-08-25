@@ -1,10 +1,8 @@
-import java.util.Date;
-import java.util.ArrayList;
-
+import java.sql.Date;
 
 public class User {
-   private Date birthdate ;
-   private  Number size;
-   private  Photo[] photos;
-   private  Address address; 
+   Date birthdate ;
+   Number size;
+   Photo[] photos;
+   Address address; 
 }

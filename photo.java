@@ -1,7 +1,7 @@
 public class Photo {
-    private String url;
-    private String filename;
-    private Number width;
-    private Number height;
+    String url;
+    String filename;
+    Number width;
+    Number height;
    
 }
